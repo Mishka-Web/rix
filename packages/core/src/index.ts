@@ -1,0 +1,1 @@
+export const RIX_VERSION = "0.0.0";
